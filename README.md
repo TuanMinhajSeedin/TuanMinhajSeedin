@@ -64,7 +64,4 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="pytorch" width="50" height="50"/> </a>
 </p>
 
----
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
